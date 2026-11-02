@@ -1,0 +1,5 @@
+# Optional: only needed to convert PalmSens .pssession files.
+# The converter is device-specific and was tested with the PalmSens
+# instrument used in the lab. PyPalmSens depends on pythonnet.
+PyPalmSens==1.10.1
+pythonnet==3.1.0
